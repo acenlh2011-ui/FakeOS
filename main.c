@@ -5,6 +5,19 @@
 #include <windows.h>
 #include <time.h>
 
+/*
+# FakeOS
+To run main.exe you need to create : 
+AceOS/
+│
+├── main.c (optional)
+├── main.exe
+├── files/
+├── users/
+├── logs/
+├── config/
+└── ai/
+*/
 #define MAX 256
 #define RAM_TOTAL 512
 
